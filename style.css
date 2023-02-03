@@ -1,0 +1,27 @@
+.firstpart {
+    text-align: center;
+    color: ivory;
+}
+
+#redpara {
+    color: yellow;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+body {
+    background-image: url(donation11.png);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+.link {
+    text-decoration: none;
+    background-image: linear-gradient(maroon, purple);
+    border-radius: 30px;
+    padding: 10px 20px;
+    color: whitesmoke;
+}
