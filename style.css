@@ -152,3 +152,31 @@ footer {
 .pic {
     padding-top: 30px;
 }
+
+.part4 {
+    margin: 10%;
+    display: flex;
+    width: 80%;
+}
+
+.half {
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+.img {
+    margin-left: 10%;
+    padding-right: 10%;
+}
+
+.part5 {
+    margin: 10%;
+    display: flex;
+    width: 80%;
+}
+
+.half2 {
+    margin-left: 15%;
+    padding-right: 10%;
+    padding-left: 5%;
+}
