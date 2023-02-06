@@ -180,3 +180,42 @@ footer {
     padding-right: 10%;
     padding-left: 5%;
 }
+
+.GetMyUpdates {
+    text-align: center;
+}
+
+.mailsubs {
+    text-align: center;
+    background-color: khaki;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 5% 10% 5% 10%;
+}
+
+.link3 {
+    text-decoration: none;
+}
+
+.email {
+
+    background-color: gray;
+    padding-right: 30%;
+    padding-left: 3%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-left: gray;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.subscribe {
+    color: antiquewhite;
+    background-color: orangered;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 4%;
+    padding-left: 4%;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
